@@ -1,0 +1,11 @@
+<!doctype html>
+<html lang="en">
+<head>
+<title>Pagina Mea HTML</title>
+<meta name="description" content="Hello world">
+<meta name="author" content="Radu Crisan">
+</head>
+<body>
+Hello World !
+</body>
+</html>
